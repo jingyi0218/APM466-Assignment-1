@@ -1,0 +1,5 @@
+matplotlib==3.5.2
+numpy==1.23.3
+pandas==1.5.2
+python_dateutil==2.8.2
+scipy==1.12.0
